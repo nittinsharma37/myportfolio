@@ -274,3 +274,13 @@ html, body, main, section {
   .sociali:hover, .sociali:focus {
     background: #044059;
   }
+
+a{
+  text-decoration: none;
+  color: gray;
+}
+a:hover{
+  color: darkorange;
+  font-weight: bold;
+  font-variant-caps: all-petite-caps;
+}
