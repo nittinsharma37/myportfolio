@@ -262,6 +262,7 @@ html, body, main, section {
   }
   
   .sociali {
+    border-radius: 40%;
     font-size: 2em;
     line-height: 1.2em;
     padding: 10px;
